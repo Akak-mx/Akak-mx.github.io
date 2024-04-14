@@ -1,3 +1,5 @@
-theme: headless
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Akak's homepage
 description: Test 1, Hello stranger!
